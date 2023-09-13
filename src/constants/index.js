@@ -75,25 +75,25 @@ export const reviews = [
         imgURL: customer1,
         customerName: 'Chaewon',
         rating: 4.5,
-        feedback: "The attention to detail and the quality of the product exceeded my expectations. Highly recommended!"
+        feedback: "Lorem ipsum dolor sit amet consectetur adipisicing elit."
     },
     {
         imgURL: customer2,
         customerName: 'Sakura',
         rating: 4.5,
-        feedback: "The product not only met but exceeded my expectations. I'll definitely be a returning customer!"
+        feedback: "Lorem ipsum dolor sit amet consectetur adipisicing elit."
     },
     {
         imgURL: customer3,
-        customerName: 'Miyawaki Sakura',
+        customerName: 'Kim Chawon',
         rating: 4.9,
-        feedback: "The product definitely worth it, considering the style and Comfort!"
+        feedback: "Lorem ipsum dolor sit amet consectetur adipisicing elit."
     },
     {
         imgURL: customer4,
-        customerName: 'Kim Chawon',
+        customerName: 'Miyawaki Sakura',
         rating: 4.2,
-        feedback: "Just Love it!"
+        feedback: "Lorem ipsum dolor sit amet consectetur adipisicing elit."
     }
 ];
 
